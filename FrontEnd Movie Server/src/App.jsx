@@ -1,5 +1,5 @@
 
-import './App.css'
+import './css/App.css';
 import MovieCard from "./Components/MovieCard"
 import Home from './Pages/Home'
 import Favorites from './Pages/Favorites'
