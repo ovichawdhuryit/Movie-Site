@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <main calssName="main-content">
+      <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/favorites" element={<Favorites />} />
@@ -21,10 +21,5 @@ function App() {
     </div>
   );
 }
-
-
-
-
-
 
 export default App
